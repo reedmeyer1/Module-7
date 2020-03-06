@@ -1,0 +1,11 @@
+C:\Users\hxeye\Desktop\Coursework\Programming\Pets\bin\Debug\netcoreapp3.1\Pets.exe
+C:\Users\hxeye\Desktop\Coursework\Programming\Pets\bin\Debug\netcoreapp3.1\Pets.deps.json
+C:\Users\hxeye\Desktop\Coursework\Programming\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.json
+C:\Users\hxeye\Desktop\Coursework\Programming\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.dev.json
+C:\Users\hxeye\Desktop\Coursework\Programming\Pets\bin\Debug\netcoreapp3.1\Pets.dll
+C:\Users\hxeye\Desktop\Coursework\Programming\Pets\bin\Debug\netcoreapp3.1\Pets.pdb
+C:\Users\hxeye\Desktop\Coursework\Programming\Pets\obj\Debug\netcoreapp3.1\Pets.csprojAssemblyReference.cache
+C:\Users\hxeye\Desktop\Coursework\Programming\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfoInputs.cache
+C:\Users\hxeye\Desktop\Coursework\Programming\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfo.cs
+C:\Users\hxeye\Desktop\Coursework\Programming\Pets\obj\Debug\netcoreapp3.1\Pets.dll
+C:\Users\hxeye\Desktop\Coursework\Programming\Pets\obj\Debug\netcoreapp3.1\Pets.pdb
